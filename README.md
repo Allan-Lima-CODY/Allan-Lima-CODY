@@ -7,7 +7,7 @@
 
 <div>
   <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=Allan-Lima-CODY&show_icons=true&theme=radical" />
-  <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allan-Lima-CODY&layout=compact&langs_count=16&theme=dracula" />
+  <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Allan-Lima-CODY&layout=compact&theme=dracula" />
 </div>
 
 <div style="display: inline_block"><br>
