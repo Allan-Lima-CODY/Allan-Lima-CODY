@@ -1,9 +1,7 @@
 ## Olá, eu sou o Allan Lima 👋
 
-- 🔭 Estou atualemnte tentando me realocar no mercado de TI
-- 🌱 Estudando C# (.NET Framework)
-- ⚡ Tenho 3 anos de experiência com .NET
-- 🤔 Ele/Dele
+- 🌱 Especialista em C# (.NET)
+- ⚡ Tenho 5 anos de experiência com .NET
 
 <div>
   <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=Allan-Lima-CODY&show_icons=true&theme=radical" />
